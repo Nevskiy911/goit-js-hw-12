@@ -150,3 +150,15 @@ label {
     color: #2e2f42;
     margin-top: 32px;
 }
+
+.load-more {
+    display: flex;
+    justify-content: center;
+}
+
+.load-btn {
+    width: 125px;
+    margin-bottom: 44px;
+    margin-top: 8px;
+}
+
